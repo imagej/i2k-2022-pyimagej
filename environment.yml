@@ -1,0 +1,20 @@
+name: i2k-2022-pyimagej
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - imglyb=2.0.1
+  - ipywidgets=7.7.0
+  - itk=5.2.0
+  - itkwidgets=0.32.0
+  - jgo=1.0.3
+  - jpype1=1.3.0
+  - jupyter_contrib_nbextensions=0.5.1
+  - napari=0.4.15
+  - notebook=6.4.11
+  - numpy=1.22.3
+  - openjdk=8.0.312
+  - pyimagej=1.1.1
+  - python=3.8.13
+  - scikit-image=0.19.2
+  - scyjava=1.5.1
