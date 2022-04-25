@@ -1,4 +1,6 @@
-# Combining ImageJ and Fiji with tools in the Python ecosystem
+***CONTENT IS STILL UNDER DEVELOPMENT***
+
+# PyImageJ: Integrating ImageJ and Fiji with tools in the Python ecosystem
 
 This repository houses the PyImageJ workshop from the
 [I2K 2022 conference](https://imagej.net/events/i2k-2022).
