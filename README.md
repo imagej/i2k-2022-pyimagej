@@ -1,5 +1,3 @@
-***CONTENT IS STILL UNDER DEVELOPMENT***
-
 # PyImageJ: Integrating ImageJ and Fiji with tools in the Python ecosystem
 
 This repository houses the PyImageJ workshop from the
@@ -37,8 +35,8 @@ Remember where you put this `i2k-2022-pyimagej` directory!
 We recommend using [conda](https://conda.io) with PyImageJ. You can install it
 via the [miniconda](https://docs.conda.io/en/latest/miniconda.html) installer.
 
-If you prefer to use plain pip, or pip with virtualenv, that is OK too.
-In that case, you will need to install the following things:
+If you prefer to use plain pip, or pip with virtualenv,
+you will need to install the following things:
 
 * Python 3.8
     * 3.9 works, but may not be compatible with some dependencies (ITK?)

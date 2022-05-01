@@ -8,6 +8,6 @@ jupyter-contrib-nbextensions==0.5.1
 napari==0.4.15
 notebook==6.4.11
 numpy==1.22.3
-pyimagej==1.1.1
+pyimagej==1.2.1
 scikit-image==0.19.2
 scyjava==1.5.1
